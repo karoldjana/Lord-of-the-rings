@@ -9,7 +9,7 @@ Here you can find its documentation: https://the-one-api.dev/documentation
 Run the following to install:
 
 ```python
-pip install lotr_sdk
+pip install lotr-sdk-karol==1
 ```
 
 ## Usage
