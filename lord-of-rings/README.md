@@ -14,7 +14,8 @@ pip install lotr-sdk-karol==1
 
 ## Usage
 
-```python
+```
+python
 from test import *
 ```
 A menu will appear with all the instructions to follow. It will require keyboard inputs.
