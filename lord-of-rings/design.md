@@ -1,0 +1,3 @@
+This project consists of two files, src/lotr_sdk.py and test.py.
+On lotr_sdk.py I defined a class with the necessary function definitions to consume the Lord of the Rings API.
+On test.py I have developed a menu options style so the user can test this on the go, while interacting with keyboard inputs. This file tries to guide the user through the steps it needs to take to use this as easily as possible.
